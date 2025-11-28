@@ -1,4 +1,3 @@
-# BST-Player-Leaderboard-System
 # 🏆 BST Player Leaderboard System
 
 A C++ console-based application that maintains a **player leaderboard** using a **Binary Search Tree (BST)**.  
